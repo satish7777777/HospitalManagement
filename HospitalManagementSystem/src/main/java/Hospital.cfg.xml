@@ -13,7 +13,7 @@
 <property name="hibernate.hbm2ddl.auto">update</property>
 <mapping class="com.hospital.entity.Patient"></mapping>
 <mapping class="com.hospital.entity.Doctor"></mapping>
-
+<mapping class="com.hospital.entity.Appointment"></mapping>
 
 </session-factory>
 </hibernate-configuration>
